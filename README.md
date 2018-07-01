@@ -7,3 +7,6 @@ Details:
 - Easily Delete by swipe to left from List of entries
 
 Included is an Espresso test to test the basic functionalities of this app, please feel free to give it a go
+
+Although i Use only FireBase Database for the app, i included in it an SQLite database that can be effortlessly swapped with
+Firebase Database in the ViewModel of the Application
