@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="pressed_grey">#999</color>
+    <color name="default_grey">#555</color>
+    <color name="home_grey">#888</color>
+    <color name="default_text_color">#fff</color>
+    <color name="add_journal_button_color">#14591f</color>
+    <color name="add_journal_button_color_selector">#1a3e22</color>
+    <color name="edit_btn">#616370</color>
+    <color name="calendar_color">#eee</color>
+</resources>

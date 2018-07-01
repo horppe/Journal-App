@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Journal App</string>
+    <string name="date_text">12 Jun, 2018</string>
+    <string name="title_text">The scary dream i experienced, is definitely the scariest shit that ever happend to me</string>
+    <string name="created_text">Created On</string>
+    <string name="updated_text">Updated On</string>
+    <string name="sample_date">21, Oct 2018</string>
+
+    <string name="web_client_id">437745820368-g1ki9krcv7cqde66ij40rak9nvm6copr.apps.googleusercontent.com</string>
+
+    <string name="menu_logout">Logout</string>
+
+    <string name="save_btn">Save</string>
+    <string name="delete_btn">Delete</string>
+    <string name="edit_btn">Edit</string>
+    <string name="title_hint">Title</string>
+    <string name="entry_hint">Entry</string>
+</resources>
